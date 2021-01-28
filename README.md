@@ -21,7 +21,7 @@
 
 
 <div style="display:flex"> 
-  <divstyle="margin-right:1em">
+  <div style="margin-right:1em">
     <a href="https://github.com/othneildrew/Best-README-Template">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo" width="" height="" style="margin-right:15px">
     </a>
