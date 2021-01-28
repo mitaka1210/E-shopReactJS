@@ -19,7 +19,7 @@
 
 
 
-
+<div style="display:flex">
 <div style="display:flex"> 
   <div style="margin-right:1em">
     <a href="https://github.com/othneildrew/Best-README-Template">
@@ -41,7 +41,7 @@
     </a></div>
 
 </div>
- 
+ </div>
 
 
 
