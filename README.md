@@ -113,7 +113,7 @@
 The project was build with:
 
 Tools: 
-1. <a href="Stripe.com">Stripe</a>
+1. 
 2. <a href="https://commercejs.com/">Commerce.js</a>
 3. <a href="https://react-hook-form.com/">React-hook-form</a>
 
