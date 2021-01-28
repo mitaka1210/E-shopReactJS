@@ -36,11 +36,7 @@
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="" style="margin-right:15px">
     </a></div>
 
-    <!--  <div>
-    <a href="https://web.telegram.org/#/im">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="" style="margin-right:15px">
-    </a>
-  </div> -->
+    
 
 </div>
  </div>
