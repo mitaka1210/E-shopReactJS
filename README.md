@@ -101,7 +101,7 @@
 ## About The Project
 <a href="https://ibb.co/bmjxGbg"><img src="https://i.ibb.co/bmjxGbg/E-shop-1.png" alt="E-shop-1" border="0" style="width:18em" type="_blank"></a>
 <a href="https://ibb.co/zFcp0Y1"><img src="https://i.ibb.co/zFcp0Y1/E-shop-2.png" alt="E-shop-2" border="0" style="width:18em"></a>
- <a href="https://ibb.co/3mXkks0"><img src="https://i.ibb.co/3mXkks0/E-shop-3.png" alt="E-shop-3" border="0" style="width:18em">
+ <a href="https://ibb.co/3mXkks0"><img src="https://i.ibb.co/3mXkks0/E-shop-3.png" alt="E-shop-3" border="0" style="width:18em"></a>
   
 
 <p>
