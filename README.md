@@ -22,23 +22,25 @@
 <div style="display:flex">
 <div style="display:flex"> 
   <div style="margin-right:1em">
-    <a href="https://github.com/othneildrew/Best-README-Template">
+    <a href="https://www.linkedin.com/in/dimitar-dimitrov1201/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo" width="" height="" style="margin-right:15px">
     </a>
   </div>
   <div styles="width:9em height:2em">
-    <a href="https://www.google.bg/">
+    <a href="https://twitter.com/dimitar1201">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="" style="margin-right:15px">
     </a>
   </div>
   <div>
-    <a href="https://www.google.bg/">
+    <a href="https://www.facebook.com/mitaka1210">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="" style="margin-right:15px">
     </a></div>
-     <div>
-    <a href="https://www.google.bg/">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" style="margin-right:15px">
-    </a></div>
+
+    <!--  <div>
+    <a href="https://web.telegram.org/#/im">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="" style="margin-right:15px">
+    </a>
+  </div> -->
 
 </div>
  </div>
