@@ -56,7 +56,7 @@
   <p align="center">
     Some information about Project!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/mitaka1210?tab=repositories"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://dazzling-joliot-4402f9.netlify.app/">View Demo</a>
