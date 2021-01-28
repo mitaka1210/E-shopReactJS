@@ -19,9 +19,9 @@
 
 
 
-
+<div style="display:flex">
 <div style="display:flex"> 
-  <div>
+  <div style="margin-right:1em">
     <a href="https://github.com/othneildrew/Best-README-Template">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo" width="" height="" style="margin-right:15px">
     </a>
@@ -41,7 +41,7 @@
     </a></div>
 
 </div>
- 
+ </div>
 
 
 
@@ -101,7 +101,7 @@
 ## About The Project
 <a href="https://ibb.co/bmjxGbg"><img src="https://i.ibb.co/bmjxGbg/E-shop-1.png" alt="E-shop-1" border="0" style="width:18em" type="_blank"></a>
 <a href="https://ibb.co/zFcp0Y1"><img src="https://i.ibb.co/zFcp0Y1/E-shop-2.png" alt="E-shop-2" border="0" style="width:18em"></a>
- <a href="https://ibb.co/3mXkks0"><img src="https://i.ibb.co/3mXkks0/E-shop-3.png" alt="E-shop-3" border="0" style="width:18em">
+ <a href="https://ibb.co/3mXkks0"><img src="https://i.ibb.co/3mXkks0/E-shop-3.png" alt="E-shop-3" border="0" style="width:18em"></a>
   
 
 <p>
@@ -113,7 +113,7 @@
 The project was build with:
 
 Tools: 
-1. <a href="Stripe.com">Stripe</a>
+1. <a href="https://stripe.com/">Stripe</a>
 2. <a href="https://commercejs.com/">Commerce.js</a>
 3. <a href="https://react-hook-form.com/">React-hook-form</a>
 
